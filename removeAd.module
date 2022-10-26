@@ -5,11 +5,20 @@
 #!author=ddgksf2013
 
 [MITM]
-hostname = %APPEND% explorer.tratao.com, overseas.weico.cc, 118.178.214.118, dapis.mting.info, acs.m.taobao.com, open3.vistastory.com, ssp.dzh.com.cn, api-access.pangolin-sdk-toutiao.com, maicai.api.ddxq.mobi, www.meituan.com, client.mail.163.com,  api.izuiyou.com, appapi.huazhu.com, api.wfdata.club, *.music.163.com, api.psy-1.com, res.kfc.com.cn, -redirector*.googlevideo.com,*.googlevideo.com, mp.weixin.qq.com, security.wechat.com, weixin110.qq.com, cdn.*.chelaileapp.cn, api.coolapk.com, edith.xiaohongshu.com, app3.qdaily.com, daoyu.sdo.com, img.jiemian.com, ccsp-egmas.sf-express.com, *.laichon.com, app.ap.d3yuiw4.com, www.i3zh.com, api.yikaobang.com.cn, api-ad-product.huxiu.com, jad-api.jin10.com, mob.mddcloud.com.cn, appactive.1234567.com.cn, rtbapi.douyucdn.cn, service.busi.inke.cn, gab.122.gov.cn, dispatcher.camera360.com, app.api.versa-ai.com, open.taou.com, api.taou.com, track.mm.taou.com, app.dewu.com, data-collector.soulapp.cn, api-mifit-cn2.huami.com, api.gamer.com, beta-api.crunchyroll.com, api.vistopia.com.cn, pss.txffp.com, m.sd.10086.cn, gw.alicdn.com, helper.2bulu.com, 47.100.65.202, api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, new.vip.weibo.cn, wap.js.10086.cn, tagit.hyhuo.com, top-widgets-api.xiaozujian.com, tel.mangaapi.manhuaren.com, apis.lifeweek.com.cn, support.you.163.com, yanxuan.nosdn.127.net, *.peopleapp.com, api-mifit-sg2.huami.com, new-app-api.ylyk.com, gw.aihuishou.com, *.58cdn.com.cn, app.58.com, acs.m.taobao.com, static.zhihu.com, creditcardapp.bankcomm.com, res.xiaojukeji.com, 116.85.2.15, 116.85.2.14, lchttpapi.xczim.com, business.msstatic.com, mangaapi.manhuaren.com, api.gotokeep.com, api.kkmh.com, *.chelaile.net.cn, api-mifit.huami.com, api.jr.mi.com, api.m.mi.com, guanyu.longfor.com, pages.xiaohongshu.com, www.xiaohongshu.com, gw.alicdn.com, elemecdn.com, fuss10.elemecdn.com, www1.elecfans.com, m.tuniu.com, consumer.fcbox.com, mapi.mafengwo.cn, api.xiaoyi.com, api.douban.com, otheve.beacon.qq.com, mapi.sfbest.com, m5.amap.com, api.mwee.cn, sso.ifanr.com, s3plus.meituan.net,flowplus.meituan.net, p*.meituan.net, img.meituan.net, testflight.apple.com, rich.kuwo.cn,*.kwcdn.kuwo.cn,mobilead.kuwo.cn, ms.jr.jd.com, wmapi.meituan.com, appconf.mail.163.com, business.msstatic.com, dl-cu-hz.lechange.cn, bdsp-x.jd.com, dsp-x.jd.com, api.m.jd.com, fbchina.flipchina.cn, zone.guiderank-app.com,ad.12306.cn, homefront.qunar.com, afd.baidu.com, *.bdstatic.com, j-image.missfresh.cn, ma-adx.ctrip.com, m.ctrip.com, mbd.baidu.com, img.rr.tv, api.rr.tv, capis.didapinche.com,capis*.didapinche.com, *.hoopchina.com,goblin.hupu.com
+hostname = %APPEND% explorer.tratao.com, overseas.weico.cc, 118.178.214.118, dapis.mting.info, acs.m.taobao.com, open3.vistastory.com, ssp.dzh.com.cn, api-access.pangolin-sdk-toutiao.com, maicai.api.ddxq.mobi, www.meituan.com, client.mail.163.com,  api.izuiyou.com, appapi.huazhu.com, api.wfdata.club, *.music.163.com, api.psy-1.com, res.kfc.com.cn, mp.weixin.qq.com, security.wechat.com, weixin110.qq.com, cdn.*.chelaileapp.cn, api.coolapk.com, edith.xiaohongshu.com, app3.qdaily.com, daoyu.sdo.com, img.jiemian.com, ccsp-egmas.sf-express.com, *.laichon.com, app.ap.d3yuiw4.com, www.i3zh.com, api.yikaobang.com.cn, api-ad-product.huxiu.com, jad-api.jin10.com, mob.mddcloud.com.cn, appactive.1234567.com.cn, rtbapi.douyucdn.cn, service.busi.inke.cn, gab.122.gov.cn, dispatcher.camera360.com, app.api.versa-ai.com, open.taou.com, api.taou.com, track.mm.taou.com, app.dewu.com, data-collector.soulapp.cn, api-mifit-cn2.huami.com, api.gamer.com, beta-api.crunchyroll.com, api.vistopia.com.cn, pss.txffp.com, m.sd.10086.cn, gw.alicdn.com, helper.2bulu.com, 47.100.65.202, api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, new.vip.weibo.cn, wap.js.10086.cn, tagit.hyhuo.com, top-widgets-api.xiaozujian.com, tel.mangaapi.manhuaren.com, apis.lifeweek.com.cn, support.you.163.com, yanxuan.nosdn.127.net, *.peopleapp.com, api-mifit-sg2.huami.com, new-app-api.ylyk.com, gw.aihuishou.com, *.58cdn.com.cn, app.58.com, acs.m.taobao.com, static.zhihu.com, creditcardapp.bankcomm.com, res.xiaojukeji.com, 116.85.2.15, 116.85.2.14, lchttpapi.xczim.com, business.msstatic.com, mangaapi.manhuaren.com, api.gotokeep.com, api.kkmh.com, *.chelaile.net.cn, api-mifit.huami.com, api.jr.mi.com, api.m.mi.com, guanyu.longfor.com, pages.xiaohongshu.com, www.xiaohongshu.com, gw.alicdn.com, elemecdn.com, fuss10.elemecdn.com, www1.elecfans.com, m.tuniu.com, consumer.fcbox.com, mapi.mafengwo.cn, api.xiaoyi.com, api.douban.com, otheve.beacon.qq.com, mapi.sfbest.com, m5.amap.com, api.mwee.cn, sso.ifanr.com, s3plus.meituan.net,flowplus.meituan.net, p*.meituan.net, img.meituan.net, testflight.apple.com, rich.kuwo.cn,*.kwcdn.kuwo.cn,mobilead.kuwo.cn, ms.jr.jd.com, wmapi.meituan.com, appconf.mail.163.com, business.msstatic.com, dl-cu-hz.lechange.cn, bdsp-x.jd.com, dsp-x.jd.com, api.m.jd.com, fbchina.flipchina.cn, zone.guiderank-app.com,ad.12306.cn, homefront.qunar.com, afd.baidu.com, *.bdstatic.com, j-image.missfresh.cn, ma-adx.ctrip.com, m.ctrip.com, mbd.baidu.com, img.rr.tv, api.rr.tv, capis.didapinche.com,capis*.didapinche.com, *.hoopchina.com,goblin.hupu.com
 [URL Rewrite]
 # ======= 0~9 ======= #
+# > 58同城
+^https?:\/\/.+\.58cdn\.com\.cn\/brandads\/ - reject
+^https?:\/\/app\.58\.com\/api\/home\/advertising\/ - reject
+^https?:\/\/app\.58\.com\/api\/home\/appadv\/ - reject
+
 
 # ======= A ======= #
+# > 爱回收
+^https?:\/\/gw.aihuishou.com\/app-portal\/home\/getadvertisement - reject
+# > AppSo
+^https?:\/\/sso.ifanr.com\/jiong\/IOS\/appso\/splash\/ - reject
 # > 爱奇艺
 ^https?:\/\/.+\/cdn\/qiyiapp\/\d{8}\/.+&dis_dz= - reject-img
 ^https?:\/\/.+\/cdn\/qiyiapp\/\d{8}\/.+&z=\w - reject-img
@@ -24,6 +33,15 @@ hostname = %APPEND% explorer.tratao.com, overseas.weico.cc, 118.178.214.118, dap
 
 
 # ======= C ======= #
+# > 车来了@ddgksf2013
+^https?:\/\/cdn\.\w{3}\.chelaileapp\.cn\/(api\/)?adpub - reject-dict
+^https?:\/\/api.chelaile.net.cn\/adpub\/ - reject
+^https?:\/\/api.chelaile.net.cn\/goocity\/advert\/ - reject
+^https?:\/\/atrace.chelaile.net.cn\/adpub\/ - reject
+^https?:\/\/atrace.chelaile.net.cn\/exhibit\?&adv_image - reject
+^https?:\/\/pic1.chelaile.net.cn\/adv\/ - reject
+# > Crunchyroll@Marcio2536,看番,无中文字幕,不推荐
+https://beta-api.crunchyroll.com/cms response-body offset_ms":\d+ response-body offset_ms":99999999999999
 
 
 # ======= D ======= #
@@ -316,7 +334,6 @@ https://new-app-api.ylyk.com/v1/user/myinfo/adviser - reject
 ^https?:\/\/service\.busi\.inke\.cn\/api\/flash\/screen - reject
 
 
-
 # ======= Z ======= #
 # > 最右
 ^https?:\/\/api\.izuiyou\.com\/ad\/ - reject
@@ -331,16 +348,3 @@ https://new-app-api.ylyk.com/v1/user/myinfo/adviser - reject
 小红书开屏广告=type=http-response,pattern=^https?:\/\/edith\.xiaohongshu\.com\/api\/sns\/v2\/system_service\/splash_config,requires-body=1,script-path=https://raw.githubusercontent.com/chouchoui/QuanX/master/Scripts/xiaohongshu/xiaohongshu.ad.js
 
 微信110=type=http-response,pattern=^https\:\/\/(weixin110\.qq|security.wechat)\.com\/cgi-bin\/mmspamsupport-bin\/newredirectconfirmcgi\?,requires-body=1,script-path=https://raw.githubusercontent.com/zZPiglet/Task/master/asset/UnblockURLinWeChat.js
-
-
-酷安完美去广告=type=http-response,pattern=^https?:\/\/api\.coolapk\.com\/v6\/(feed\/(replyList|detail)|main\/indexV8|dataList),requires-body=1,script-path=https://github.com/ddgksf2013/Cuttlefish/raw/master/Script/coolapk.js
-
-# 此条规则会影响京东比价显示，使其失效
-京东开屏广告=type=http-response,pattern=^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=hotWords,requires-body=1,script-path=https://github.com/ddgksf2013/Cuttlefish/raw/master/Script/jd_json.js
-京东开屏广告=type=http-response,pattern=^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=hotSearchTerms,requires-body=1,script-path=https://github.com/ddgksf2013/Cuttlefish/raw/master/Script/jd_json.js
-
-嘀嗒出行=type=http-response,pattern=^https?:\/\/capis(-?\w*)?\.didapinche\.com\/ad\/cx\/startup\?,requires-body=1,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.js
-
-动画疯(黑屏30秒)=type=http-response,pattern=^https:\/\/api\.gamer\.com\.tw\/mobile_app\/anime\/v\d/(token|m3u8).php\?,requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Bahamut/BahamutAnimeAds.js
-
-飞客茶馆（请清除缓存使用）=type=http-response,pattern=^https?:\/\/47\.100\.65\.202\/source\/plugin\/mobile\/mobile\.php\?module=threadpost&.+?&page=1,requires-body=1,script-path=https://github.com/ddgksf2013/Cuttlefish/raw/master/Crack/fly.js
